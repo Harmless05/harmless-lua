@@ -1,7 +1,7 @@
 --[[
 Name: ["Ragdoll Player"]
 Version: [1.0.0]
-Description: ["Lua script that allows you to ragdoll yourself once or looped, with customizable options. Visible under the 'Self - Ragdoll Player' tab."]
+Description: ["Lua script that allows you to ragdoll yourself once or looped, with customizable options. Visible under the 'Self -> Ragdoll Player' tab."]
 Author: ["Harmless"]
 Discord: ["harmless0"]
 --]]
