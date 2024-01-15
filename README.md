@@ -1,5 +1,8 @@
 # Harmless's Lua Scripts
 
+### Moved to [YimMenu-Lua/Harmless-Scripts](https://github.com/YimMenu-Lua/Harmless-Scripts)
+### Please create issues at [YimMenu-Lua/Harmless-Scripts/issues](https://github.com/YimMenu-Lua/Harmless-Scripts/issues)
+
 Repo for Lua scripts made by Harmless for [YimMenu](https://github.com/YimMenu/YimMenu/)
 
 ## Current Features of Harmless's Scripts
@@ -19,7 +22,7 @@ Repo for Lua scripts made by Harmless for [YimMenu](https://github.com/YimMenu/Y
 
 ## How to install
 
-1. Download the latest release [here](https://github.com/Harmless05/harmless-lua/releases/latest)
+1. Download the latest release [here](https://github.com/YimMenu-Lua/Harmless-Scripts/releases/latest)
 2. Put the script in the `scripts` folder of YimMenu
     - You can find the YimMenu folder by opening the RUN window (Windows key + R) and typing `%appdata%` and pressing enter
     - Then look for the `YimMenu` -> `scripts` folder and put the script in there
@@ -41,8 +44,8 @@ You are welcome to use Harmless's Scripts lua in this repository for your own **
 
 ## Reporting and suggestions
 
-If you encounter any issues or bugs while using Harmless's Scripts, please report them to this [repository's issue tracker](https://github.com/Harmless05/harmless-lua/issues) or get in touch with me directly via Discord. Please include as much information as possible, including the script name, the version of the script, and the version of YimMenu you are using.
+If you encounter any issues or bugs while using Harmless's Scripts, please report them to this [repository's issue tracker](https://github.com/YimMenu-Lua/Harmless-Scripts/issues) or get in touch with me directly via Discord. Please include as much information as possible, including the script name, the version of the script, and the version of YimMenu you are using.
 
 You are also welcome to suggest new scripts, features, or improvements to existing features of Harmless's Scripts. Please note that I may not be able to implement all suggestions, but I will do my best to consider them
 
-#### You can report your issues by visiting the following link: <https://github.com/Harmless05/harmless-lua/issues/new/choose>
+#### You can report your issues by visiting the following link: <https://github.com/YimMenu-Lua/Harmless-Scripts/issues/new/choose>
